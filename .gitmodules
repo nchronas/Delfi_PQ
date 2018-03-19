@@ -1,0 +1,18 @@
+[submodule "EPS_software"]
+	path = EPS_software
+	url = https://github.com/nchronas/EPS_software.git
+[submodule "TMP100"]
+	path = TMP100
+	url = https://github.com/nchronas/TMP100.git
+[submodule "MB85RS256A"]
+	path = MB85RS256A
+	url = https://github.com/nchronas/MB85RS256A.git
+[submodule "LTC2942"]
+	path = LTC2942
+	url = https://github.com/nchronas/LTC2942.git
+[submodule "INA226"]
+	path = INA226
+	url = https://github.com/nchronas/INA226.git
+[submodule "ecss_services"]
+	path = ecss_services
+	url = https://github.com/nchronas/ecss_services.git
