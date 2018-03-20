@@ -16,3 +16,6 @@
 [submodule "ecss_services"]
 	path = ecss_services
 	url = https://github.com/nchronas/ecss_services.git
+[submodule "EPS_kernel"]
+	path = EPS_kernel
+	url = https://github.com/nchronas/EPS_kernel.git
